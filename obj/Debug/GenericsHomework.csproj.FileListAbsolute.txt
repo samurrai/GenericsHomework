@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\GenericsHomework\GenericsHomework\bin\Debug\GenericsHomework.exe.config
+C:\Users\User\source\repos\GenericsHomework\GenericsHomework\bin\Debug\GenericsHomework.exe
+C:\Users\User\source\repos\GenericsHomework\GenericsHomework\bin\Debug\GenericsHomework.pdb
+C:\Users\User\source\repos\GenericsHomework\GenericsHomework\obj\Debug\GenericsHomework.csprojAssemblyReference.cache
+C:\Users\User\source\repos\GenericsHomework\GenericsHomework\obj\Debug\GenericsHomework.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\GenericsHomework\GenericsHomework\obj\Debug\GenericsHomework.exe
+C:\Users\User\source\repos\GenericsHomework\GenericsHomework\obj\Debug\GenericsHomework.pdb
